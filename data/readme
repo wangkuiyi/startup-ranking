@@ -1,0 +1,6 @@
+#startups_ids_info format:
+#outf format: cid, fmonth_last fyear_last,
+                #               fmonth_seclast fyear_seclast,
+                #               founded_month founded_year,
+                #               amt_last, delta_amt, sum_amt,
+                #               duration_months, delta_months
